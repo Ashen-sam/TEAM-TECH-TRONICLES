@@ -1,5 +1,5 @@
 # TEAM-TECH-TRONICLES
-We have developed our Team Texh-Chronicles Website using HTML, CSS, and JS and the website is responsive for all devices. 
+We have developed our Team Tech-Chronicles Website using HTML, CSS, and JS and the website is responsive for all devices. 
 take a look at the images of the website that responsive for all devices
 ![Screenshot 2023-09-27 195606](https://github.com/Ashen-sam/TEAM-TECH-TRONICLES/assets/120357041/79e6a899-165b-42c7-a5a5-2bb2652ee3f7) For the Mobile devices 
 
